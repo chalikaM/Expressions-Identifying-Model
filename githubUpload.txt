@@ -1,0 +1,11 @@
+1. check the files with ls command
+
+2. git init
+
+3. git remote add origin url
+
+4. git add .
+
+5. git commit -m "message"
+
+6. git push origin master
